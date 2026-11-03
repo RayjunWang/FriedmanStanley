@@ -1,0 +1,91 @@
+{
+  "verified_at_utc": "2026-11-02T15:49:57.840379+00:00",
+  "all_five_proofs_accepted": true,
+  "toolchain": "leanprover/lean4:v4.30.0",
+  "mathlib_rev": "c5ea00351c28e24afc9f0f84379aa41082b1188f",
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "proposal": {
+    "id": "5bb9ccfa-5ab5-4a6c-9918-5352b107d179",
+    "name": "Friedman Stanley cofinality without Borel completeness",
+    "mission_type": "OpenProblem",
+    "visibility": "public",
+    "status": "In review",
+    "mission_id": null
+  },
+  "items": [
+    {
+      "theorem_name": "FSCofinality.bounded_tree_isomorphism_borel",
+      "theorem_id": "9f8184f7-ba41-4d9c-a4a6-4052986ae7f5",
+      "verification_status": "ACCEPTED",
+      "submission_id": "7aaab607-cd8a-4912-a577-71af345bd6be",
+      "theorem_status": "Proved",
+      "sha256": "2095c979b3fb02b4bc2772c49a830b6af8816ad16ac482bf2f518a654cebf89e",
+      "bytes": 72303,
+      "server_source_matches": true,
+      "local_compile_seconds": 15.66,
+      "exact_published_type_match": true,
+      "source_file": "Prove2Me/BoundedTreeIsomorphismBorel.lean",
+      "accepted_at": "2026-11-02T15:32:40.693795+00:00"
+    },
+    {
+      "theorem_name": "FSCofinality.invariant_real_parameters",
+      "theorem_id": "5791fd93-6a01-4c48-8992-81bc70de0871",
+      "verification_status": "ACCEPTED",
+      "submission_id": "2a76de34-92be-400e-af2b-6e1d79717d8b",
+      "theorem_status": "Proved",
+      "sha256": "66b9d78fb69528cd20ea7fe8f62837565f0c886e8f5238da32358e0338098295",
+      "bytes": 150701,
+      "server_source_matches": true,
+      "local_compile_seconds": 17.28,
+      "exact_published_type_match": true,
+      "source_file": "Prove2Me/InvariantRealParameters.lean",
+      "accepted_at": "2026-11-02T15:33:07.533494+00:00"
+    },
+    {
+      "theorem_name": "FSCofinality.original_tree_comparison",
+      "theorem_id": "462343aa-6d61-4a82-aeec-4dc0fb9ffe39",
+      "verification_status": "ACCEPTED",
+      "submission_id": "9f2620e0-6b8b-4e09-801e-b2c73a37a137",
+      "theorem_status": "Proved",
+      "sha256": "0070f13a18bcbd47bae5536d61d43b30d45202285366c5d53cba86a720ab76ec",
+      "bytes": 71980,
+      "server_source_matches": true,
+      "local_compile_seconds": 15.23,
+      "exact_published_type_match": true,
+      "source_file": "Prove2Me/OriginalTreeComparison.lean",
+      "accepted_at": "2026-11-02T15:32:59.039632+00:00"
+    },
+    {
+      "theorem_name": "FSCofinality.coset_cofinality",
+      "theorem_id": "43151303-0fcb-4d53-ab4f-209a62939fdb",
+      "verification_status": "ACCEPTED",
+      "submission_id": "e3d98e2e-abfd-47c2-8063-f4cc71ed5441",
+      "theorem_status": "Proved",
+      "sha256": "477de581288f747e91d511a7d4b392deff0e390edb0df4405ae843361a002d91",
+      "bytes": 617756,
+      "server_source_matches": true,
+      "local_compile_seconds": 31.358999999938533,
+      "exact_published_type_match": true,
+      "source_file": "Prove2Me/CosetCofinality.lean",
+      "accepted_at": "2026-11-02T15:48:48.924475+00:00"
+    },
+    {
+      "theorem_name": "FSCofinality.theorem1_2",
+      "theorem_id": "b774fd72-07d9-402c-a4df-1a2a2c2f9242",
+      "verification_status": "ACCEPTED",
+      "submission_id": "2c3159c6-54cc-4bf5-bc17-bf35571ed5de",
+      "theorem_status": "Proved",
+      "sha256": "51f70240a7e9a678d7da0368cae50ad13048c660ea36751d5503260c24dc5894",
+      "bytes": 870689,
+      "server_source_matches": true,
+      "local_compile_seconds": 34.5,
+      "exact_published_type_match": true,
+      "source_file": "Prove2Me/Main.lean",
+      "accepted_at": "2026-11-02T15:49:12.083488+00:00"
+    }
+  ]
+}

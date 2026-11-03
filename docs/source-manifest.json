@@ -1,0 +1,1050 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "63bde92ee96f4ca30783cfb4af59dccd813b4a5e7804b60706a7a404c9bbd3df",
+      "bytes": 2956
+    },
+    {
+      "path": "lakefile.lean",
+      "sha256": "2043da835325818ecac8b2a9e13a3a9769b9e4a031a7104230675db4831ecb6f",
+      "bytes": 315
+    },
+    {
+      "path": "lake-manifest.json",
+      "sha256": "0dcc404151aab04dbca3649f63b8e5463039dba96a75139abe7bdab3f713442d",
+      "bytes": 3665
+    },
+    {
+      "path": "lean-toolchain",
+      "sha256": "54727eec5cba149c18842e6deb5c41b369d66455c93ce135d7d5347c782b2325",
+      "bytes": 25
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "e0353a4124774c5e4d1578aac642fdf99531fd629486486ab16ce4ab42dd6a9a",
+      "bytes": 251
+    },
+    {
+      "path": "FSCofinalityProof.lean",
+      "sha256": "dd65a1769cbcf3b10e10b1199ff489899421a0d81686abfd61390aadf8fe4c9e",
+      "bytes": 643
+    },
+    {
+      "path": "AuditAll.lean",
+      "sha256": "a7923c4c63076c30f800a1975678fcd869015b470f94e6fbe9d02597e28961ed",
+      "bytes": 427
+    },
+    {
+      "path": "AuditMain.lean",
+      "sha256": "17ef35a86d874db56954a26bb098839d7a1d3a2a87993e72f59454b77a518a68",
+      "bytes": 92
+    },
+    {
+      "path": "AuditRoot.lean",
+      "sha256": "1e020e725038881fd46cbb28bb556401c6d6ef7386cffaaf3998b2b166548ca0",
+      "bytes": 794
+    },
+    {
+      "path": "AuditParameterSequences.lean",
+      "sha256": "c358d51e936efec7a5e0f9c415ef1b6647062217763c9e62e50f96a1fc0bfab7",
+      "bytes": 2441
+    },
+    {
+      "path": "tools/package_project.py",
+      "sha256": "8ad7ad11f1018473bc828951cd9b1f0c22ecf1b64f9949dbf6cf717d90d69a32",
+      "bytes": 2064
+    },
+    {
+      "path": "Prove2Me/README.md",
+      "sha256": "378f4370a8b4c3296e04fcc92d2d9cfa991619e78f741eba53634374be73614c",
+      "bytes": 1195
+    },
+    {
+      "path": "Definitions/Def_FSCofinalityCosets20261102.lean",
+      "sha256": "b119fe185badeea70e71027621547fd016a0a27943d5dee3b24c6768f97e6b5b",
+      "bytes": 5253
+    },
+    {
+      "path": "Definitions/Def_FSCofinalityHierarchy20261102.lean",
+      "sha256": "47eaa3e29d1b2b90640f7bb6bc27fb75fcccc41254a5f04bd37c59cdedc99d78",
+      "bytes": 4891
+    },
+    {
+      "path": "Definitions/Def_FSCofinalityStructures20261102.lean",
+      "sha256": "7b5a9a53cf2ca9cd62e6668d72e0a51ec5eb0dbc594846643cae0aa4134f0166",
+      "bytes": 4528
+    },
+    {
+      "path": "Definitions/Def_FSCofinalityTrees20261102.lean",
+      "sha256": "9a9a3172960b1061a4bb2113c4aba0e2f0aefdf74e2d3acdbd3e845651a2841a",
+      "bytes": 3431
+    },
+    {
+      "path": "FSCofinalityProof/AutomorphismGroups.lean",
+      "sha256": "4d3265510fb3f5ce3e770aed0ef019405e54bb702e9739a39dc62026ae6c167a",
+      "bytes": 4681
+    },
+    {
+      "path": "FSCofinalityProof/BorelBackAndForth.lean",
+      "sha256": "4e05bace65af075ab8a30229918bceb9ee909543a188c70ca8f964c7973f8686",
+      "bytes": 4958
+    },
+    {
+      "path": "FSCofinalityProof/BorelClosedChoice.lean",
+      "sha256": "e6a2a70a1b9dec78d9adc5c1f05baa1bd5840424cf3339eb626ee9a994d47905",
+      "bytes": 7030
+    },
+    {
+      "path": "FSCofinalityProof/BorelPrunedBranch.lean",
+      "sha256": "ad0d4fd7982af9fad6894b57815f83e46d65310466af7db6013bce62e5609a66",
+      "bytes": 3856
+    },
+    {
+      "path": "FSCofinalityProof/Boundedness.lean",
+      "sha256": "28ce9317d165b6f4e0f9a957bef707840f4f67c95bf30933d392883ce5ab09a2",
+      "bytes": 5632
+    },
+    {
+      "path": "FSCofinalityProof/ClosedGraphCapture.lean",
+      "sha256": "4fe28cf43ef587481558cb1ca6607ca3a983789a479f049ab0e90635cd0a9547",
+      "bytes": 5053
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionBirthBorel.lean",
+      "sha256": "c49479d7e5d406fd35abbb258c60d457a372085d574d6aa09dcfd1158e3394c4",
+      "bytes": 7416
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionBottomValues.lean",
+      "sha256": "939bb0aee648649279cf6abdf6a313fc1784b2e5a3d83dd9d5987224050d7699",
+      "bytes": 8416
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionCodeOperations.lean",
+      "sha256": "00eaf1114334749bac72aeef0ce6ed7b817628d31db5926aba2f1978d94f1c11",
+      "bytes": 10531
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionCodeRepBorel.lean",
+      "sha256": "3ec4a4cdf2256f29fc905e350e89037e132df7791be471080d9dc0f617186a76",
+      "bytes": 2143
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionColumnCodes.lean",
+      "sha256": "758923ec9e77769ab4574600ae0dc21c5dc4b2f697401acba30698ad42d60b40",
+      "bytes": 7726
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionColumnEnumeration.lean",
+      "sha256": "92da3aa3169a472447a028edc58e3f556f411693789fe430ab0e9bdc369f65a9",
+      "bytes": 7117
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionColumnMemberBorel.lean",
+      "sha256": "e79f34c29e8dfdbcfe22ebd2d2711e026485d2c955ec0a7eb6b26bb1bf51d7ba",
+      "bytes": 2630
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionCommonIsotype.lean",
+      "sha256": "47e3860a0665b73f7830481688a1ecafe1b26a912523f3a00665e7c7219e0bb9",
+      "bytes": 3503
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionCosets.lean",
+      "sha256": "886322ee7ed2c391223a20115d4deb65bd133e14cfaa8412e8d98ee8c56f2808",
+      "bytes": 2979
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionEnumeration.lean",
+      "sha256": "5c837ca32203b498f205894fc419d42662f225f66d1c0e3ed1e2e276c30e6e5b",
+      "bytes": 4744
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionFiniteBorel.lean",
+      "sha256": "931ec8a52c0710afdc9384b579e309a7072f19c5918e3f913987f0a15d94a8b2",
+      "bytes": 7396
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionFiniteEval.lean",
+      "sha256": "ee2d3d0a19b9d8630cfcfe515f1271dba497f93f9373741f1fdb0a06fb5d286e",
+      "bytes": 2561
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionMemberBorel.lean",
+      "sha256": "06fa5d42efbef48f05abaa6f45acd50ec271050a999a6f3eab9c33b5377cc171",
+      "bytes": 4657
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionModelBorel.lean",
+      "sha256": "4df94b391ec54c84a534940bc28b0ce5a9d6ee8418a8c86c5ef1f7e207e16109",
+      "bytes": 11085
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionModelEnumeration.lean",
+      "sha256": "f6930a6cbc008d8049b1000b14b48432c83e1ef925fbccdd84b87e158ea9d7f3",
+      "bytes": 4199
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionNativeCoordinates.lean",
+      "sha256": "177cc13bdba571887167f8dc765eadeccc7cfb89a04126c25110ef648f872ec4",
+      "bytes": 5912
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionNativeModel.lean",
+      "sha256": "094ce45e2a4d6da10d0f6560d8dac82bfea3c0e3594f249cce538e616e4191e9",
+      "bytes": 5908
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionPoolBorel.lean",
+      "sha256": "2d4d61287f8ed40441db8d1de4bcd9f458e7286263bdcd13ead182d1fef8c8e0",
+      "bytes": 3798
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionPoolBorelLimit.lean",
+      "sha256": "71983cc7b2027fa429f18c52955a11de43220dd06c914a22362362a9da3b8820",
+      "bytes": 4722
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionPoolCodes.lean",
+      "sha256": "4aed37aa79ef522ac87aebd08a9840c993c80bc2db5e24266719d44d36755c95",
+      "bytes": 9428
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionPoolEnumeration.lean",
+      "sha256": "0392dec9fd00c863e3c64fd71dd28419c311f4099ce212eec8e97f5c60a8996c",
+      "bytes": 4376
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionPoolEquivalences.lean",
+      "sha256": "1852daea08a7afea7a76bdd3f118ee9c888e9638c896ff8a2b4ef06c034b07f0",
+      "bytes": 9227
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionPoolInvariant.lean",
+      "sha256": "91de426d10669dbbb6e9a1e5348cee54b82ed771538932f17f2c32456f716fdb",
+      "bytes": 3229
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionProfileBorel.lean",
+      "sha256": "c92fc98a7f1bda50f78288ef9ac32ed40fd935736d633656ae4c9e452d97995a",
+      "bytes": 9677
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionProfileDecoders.lean",
+      "sha256": "df36d6cb392a915a7753a0c016c9c19283afa287227befa113296ac464b3d04f",
+      "bytes": 5354
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionProfileShapes.lean",
+      "sha256": "0a7ad7c5d767cd50981195c514b4e68c47f7da0765b01d5626b777652b3d2da4",
+      "bytes": 3356
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionRawProperties.lean",
+      "sha256": "ba56f256811b586e6bdead0cadb2e45581f630e51633465fb860b8258cbb8751",
+      "bytes": 9646
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSeedCodes.lean",
+      "sha256": "2db5a0013e8dca1193d65bcfcab0580df53a6d223e5bfba4663cbb2da1622dd4",
+      "bytes": 5372
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSeedCoordinates.lean",
+      "sha256": "ee3b707687ea01c085f00bac79f136d2724af20bebd9affcd4305ac1c329fe1b",
+      "bytes": 4973
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSeedFinite.lean",
+      "sha256": "1c850edc3aaf4ef3259ec303cb710872044f8e4c296eb9bc9bca13ef9e559222",
+      "bytes": 5591
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSeeds.lean",
+      "sha256": "7a63fcd24d34651406f0f0973269ce5cf77f866a2ab566bfeeb3518cf4a40015",
+      "bytes": 5760
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSeedShapes.lean",
+      "sha256": "850b036d894f9b354d9ab3074784916e28e69705477d9667d5cc8c3ce27ca001",
+      "bytes": 5484
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSelectionBorel.lean",
+      "sha256": "3316073659788624770efeeb4dcc267016ef2a90a862d0298bf758d3e6a70460",
+      "bytes": 1304
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSemanticRecovery.lean",
+      "sha256": "daef1a3ef45b173ebd7232d91e4142906d852390d447896aa5aa99eea8964459",
+      "bytes": 14161
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSourceBorel.lean",
+      "sha256": "93d12f80ccd0bb740153c370ef7b7ba14f4a4b478a1e46de5610f5b775aadc63",
+      "bytes": 2919
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSourceClosure.lean",
+      "sha256": "41deffde82f02de982f601902ad06bfc16f455c19b5917f7f201b00ced1d4b2f",
+      "bytes": 6977
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSourceInvariant.lean",
+      "sha256": "d33932fa53420849b5f64a0cde63242bc6c2e172e781ad4c7b463a6120ba992d",
+      "bytes": 4798
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionSourcePaths.lean",
+      "sha256": "1d6676574f27b47166171264c8a6488502a7497ad1508e273c48985f601a58cd",
+      "bytes": 4721
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionTokenModelProperties.lean",
+      "sha256": "d7d4169f70ef5ef1fa93a84b1d979108b589f21fd15029f97bcebb212bd9e741",
+      "bytes": 10269
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionTokenModels.lean",
+      "sha256": "155aca2a77c806af9e70a83b1c051ac479b2e84e7886d0cdf4299f34290270ef",
+      "bytes": 10020
+    },
+    {
+      "path": "FSCofinalityProof/CosetConstructionTranslation.lean",
+      "sha256": "4464ca53a4f3caf7ed61728c852ea824d858b3b6a8ae4865d1a904e5a2979a1b",
+      "bytes": 6069
+    },
+    {
+      "path": "FSCofinalityProof/GenericTables.lean",
+      "sha256": "b0973d4e95088d0f6cbb4c12bd1e5239a9ec2e0bc19264222fe54e9b346934b2",
+      "bytes": 6901
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesBottom.lean",
+      "sha256": "29c3e65b6429e333b1ba3264833df187f253103fd883eed29a481c3bf3250045",
+      "bytes": 5888
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesBottomCoordination.lean",
+      "sha256": "b3d888feb62f74280fcf06f77df57b966247fed1a6159ed21a591c5e946b065c",
+      "bytes": 4652
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesBottomMap.lean",
+      "sha256": "db904c19bd9888ddd1a8015272bf6bee78a856f32f9c11fca757819c14c4a8b5",
+      "bytes": 2767
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesFiniteContexts.lean",
+      "sha256": "282fd98d6f66bc788881a56bf5680506ce72a2f140f4e6144a9f6b6645b56385",
+      "bytes": 3534
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesHistories.lean",
+      "sha256": "2f296dc117f6fe7b1bfd4ad9d94abf606d232dfd71150c64e8ad05e09bfe80d0",
+      "bytes": 8672
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesHistoryExtensions.lean",
+      "sha256": "3cb8587b55ee3ea0f3eba57d8e3da1b984c32daf8a39147c03e6d77188dab438",
+      "bytes": 5058
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesHistorySorting.lean",
+      "sha256": "764f61c0ddea1cdf5bb5c4ad477caa6ff3a34a3b9b66dddfcb9e071288d7bc4d",
+      "bytes": 1167
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesPointed.lean",
+      "sha256": "87834737bc46cc8b1b0268e4a3cb5d38e3072bde346944c4ab1662b77d3f59cc",
+      "bytes": 3680
+    },
+    {
+      "path": "FSCofinalityProof/GenericTablesTranspose.lean",
+      "sha256": "39c5ce7c290959bb2ebf3e9382f764fb9c65b310e826b32b6b320611ceb28953",
+      "bytes": 2214
+    },
+    {
+      "path": "FSCofinalityProof/GraphEncoding.lean",
+      "sha256": "bc550fe50f776f79d45bccc0d0a62c4a0971d35d7ba4d7a14254d9baa1e18c89",
+      "bytes": 5583
+    },
+    {
+      "path": "FSCofinalityProof/GraphEncodingIncidence.lean",
+      "sha256": "df3e916fac096f04490381d165938bac3dddc5d6a42ab7da398f10975524913c",
+      "bytes": 5614
+    },
+    {
+      "path": "FSCofinalityProof/GraphEncodingMarkers.lean",
+      "sha256": "dde8370d08efd8da68f672328dcab5397d87444058738ebc0a39fd607c1a63e3",
+      "bytes": 6860
+    },
+    {
+      "path": "FSCofinalityProof/GraphEncodingRecovery.lean",
+      "sha256": "558c32e5b98efb7163bbfc0928dccf2fd2b8914215557f0f4e7ec902ece19e67",
+      "bytes": 6686
+    },
+    {
+      "path": "FSCofinalityProof/GraphEncodingReflection.lean",
+      "sha256": "7b589af11e496ed333709ee421cd644632546e23bfdf63f7b8fe3d42e528384b",
+      "bytes": 4945
+    },
+    {
+      "path": "FSCofinalityProof/HierarchyBasics.lean",
+      "sha256": "7db20535261a23711c8342a77a2305360b7c699ab62e569974402d6c39e4bf12",
+      "bytes": 9805
+    },
+    {
+      "path": "FSCofinalityProof/HierarchyEmbeddings.lean",
+      "sha256": "20cabe52a6472ca71984378463ceb6e87182a6ea7e3cc35892aa57d2c339cd29",
+      "bytes": 4464
+    },
+    {
+      "path": "FSCofinalityProof/HierarchyProducts.lean",
+      "sha256": "fbbcd5a52bd12d585625f9863ccebd6bcc1f8b97fb22040a8d7bd9da729bfb27",
+      "bytes": 2069
+    },
+    {
+      "path": "FSCofinalityProof/HierarchySigma.lean",
+      "sha256": "96daebe1c203ca17c149dc4df7223b172c6e1db742524e817ab3c1f2b52d4a07",
+      "bytes": 2027
+    },
+    {
+      "path": "FSCofinalityProof/HierarchySums.lean",
+      "sha256": "5fea376c4fd3465e6ff69666b71bc39dfd87d0bfdad980f15628df91874a4445",
+      "bytes": 6631
+    },
+    {
+      "path": "FSCofinalityProof/IsomorphismCosets.lean",
+      "sha256": "b288a0ce0d2b1d7249e48cb37ad03fab67b7a52eb0f3ec426b225773dc8dc56f",
+      "bytes": 6341
+    },
+    {
+      "path": "FSCofinalityProof/MarkedCosets.lean",
+      "sha256": "f50a9b27355259defed55f136b49c9444d053d94234382638da0decc3dc4da3a",
+      "bytes": 3287
+    },
+    {
+      "path": "FSCofinalityProof/Multiset.lean",
+      "sha256": "9a45ed37958a0c49220ec1b163bbf6bdf9dd3230ca3de9b0102cb99407275aee",
+      "bytes": 6523
+    },
+    {
+      "path": "FSCofinalityProof/MultisetClosure.lean",
+      "sha256": "bc0a6b29b79df2fd5948a2071051f0dc98a11451d3e7ceec0c12098f2a34310f",
+      "bytes": 2525
+    },
+    {
+      "path": "FSCofinalityProof/NoncompleteBoundedInvariant.lean",
+      "sha256": "ecdddc07da17af4788daceffa313212ff0a6359926ffddbc53a303db29df4a08",
+      "bytes": 1787
+    },
+    {
+      "path": "FSCofinalityProof/NoncompleteFinal.lean",
+      "sha256": "819efdaa6304a05b69b67feee261ddf9dd1d1016e3c40406a585a3e84b3d5904",
+      "bytes": 976
+    },
+    {
+      "path": "FSCofinalityProof/NoncompleteGraphs.lean",
+      "sha256": "319e5ff6e970f8909c30e38acc3679db52b7f7b5b241a8be90d9204a91708086",
+      "bytes": 3756
+    },
+    {
+      "path": "FSCofinalityProof/NoncompleteInvariantReal.lean",
+      "sha256": "5f5bffc817c650a183e55e66cca940432417d3950f7ffe9c394a3b3a05ad2a7c",
+      "bytes": 2121
+    },
+    {
+      "path": "FSCofinalityProof/NoncompletePrinciple.lean",
+      "sha256": "a1ef17f012356f349a0c91bcf24e47ba6c31d50c6e064609d9be338d5cb2f268",
+      "bytes": 2872
+    },
+    {
+      "path": "FSCofinalityProof/PaddingAncestors.lean",
+      "sha256": "8931dcc6d8081743db45f581124f9505329a1d774d22e72b8c33a6b7a4295952",
+      "bytes": 2988
+    },
+    {
+      "path": "FSCofinalityProof/PaddingBackAndForth.lean",
+      "sha256": "1ba5db38551dab99efd4d98a8481c40749a3f79723217820f137b6855b501f50",
+      "bytes": 2249
+    },
+    {
+      "path": "FSCofinalityProof/PaddingBasics.lean",
+      "sha256": "009ce1325be2dce834851beb283d6f0b2f7a379fb54e58f4820f2e49ed62f5c4",
+      "bytes": 6771
+    },
+    {
+      "path": "FSCofinalityProof/PaddingBranches.lean",
+      "sha256": "08911309d1436ae93ffbea1424e4b30e6e605346ed990eab68c6eb52422befd8",
+      "bytes": 3782
+    },
+    {
+      "path": "FSCofinalityProof/PaddingCanonical.lean",
+      "sha256": "537d04abc27782ddbcdb919af2b520804221a91620869494bc78317aab6f7cb2",
+      "bytes": 7179
+    },
+    {
+      "path": "FSCofinalityProof/PaddingEnumeration.lean",
+      "sha256": "ba8fe0dbbc51f4cfeef192ea05c9969ac633d4de67df0da5eaf2a93c70fa173b",
+      "bytes": 1959
+    },
+    {
+      "path": "FSCofinalityProof/PaddingExtension.lean",
+      "sha256": "49cb3841b30f7c057f5be0d1241b38b32df94d8df2c3af5bb187beeb37b9e7ce",
+      "bytes": 3955
+    },
+    {
+      "path": "FSCofinalityProof/PaddingFatLemma.lean",
+      "sha256": "75447db9debee9c3b9b180351cf8f63c8d627766c2236c6cd2dde803f25130ec",
+      "bytes": 4316
+    },
+    {
+      "path": "FSCofinalityProof/PaddingForward.lean",
+      "sha256": "39edaa9946e29c39b4e7cfd9b71871a4ce0765c4232edb95d88ce59e817382f0",
+      "bytes": 3641
+    },
+    {
+      "path": "FSCofinalityProof/PaddingIsomorphism.lean",
+      "sha256": "b833b84ad11c8abc7d0927ec1fabb8030c8c0f99d6f3625cc71ef39171cd9c77",
+      "bytes": 2469
+    },
+    {
+      "path": "FSCofinalityProof/PaddingLanguage.lean",
+      "sha256": "8d9af8525176888a0442c66102c3dae9d8246a68559529a89a43e4532e8ceab2",
+      "bytes": 2719
+    },
+    {
+      "path": "FSCofinalityProof/PaddingOrdinalBasics.lean",
+      "sha256": "0fd4fdaf50a4aba5380a434854a41044f209abec9518a67559ec13e6368b0089",
+      "bytes": 5248
+    },
+    {
+      "path": "FSCofinalityProof/PaddingOriginalEquiv.lean",
+      "sha256": "02d25463d54276ce37dc1a7e8ec532a71453be385215913f3321478cff154a1c",
+      "bytes": 4506
+    },
+    {
+      "path": "FSCofinalityProof/PaddingPaddedTree.lean",
+      "sha256": "63600338084e9ceb9ab8a6b51c2adf964387c3afa3e0bf5281038d2fedf86a5e",
+      "bytes": 6837
+    },
+    {
+      "path": "FSCofinalityProof/PaddingPath.lean",
+      "sha256": "f7c1cd43a9940f5a3d1ebff7981a59345421224b4ba44af70e2a5e89c3a4d452",
+      "bytes": 3597
+    },
+    {
+      "path": "FSCofinalityProof/PaddingReflection.lean",
+      "sha256": "d78d7aecc6fc2973685198dabc139dfcd38f609de111ca3a4609653017a435fa",
+      "bytes": 4222
+    },
+    {
+      "path": "FSCofinalityProof/PaddingTemplate.lean",
+      "sha256": "73a9798c165aebbba036b28d6c24e5fb92022f240a0e7081512c8cff41a8db9f",
+      "bytes": 3240
+    },
+    {
+      "path": "FSCofinalityProof/PaddingTupleBranch.lean",
+      "sha256": "27fdca22e3a4404b4258d00443237e3cbfa5ce566d46d561445e7221cf51c68e",
+      "bytes": 4078
+    },
+    {
+      "path": "FSCofinalityProof/PaddingTupleGraphs.lean",
+      "sha256": "8cc0a8d616ac146b99662b773731c5d44c8f8bd572a7b67eb0a789a5af27efb6",
+      "bytes": 4569
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassAssembly.lean",
+      "sha256": "0887d2bd5d0802d4339465128487ea7c36ce33018c7384b2dabcd70444c4c292",
+      "bytes": 3970
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassCopies.lean",
+      "sha256": "455b9529d5653d152f7f5e6aba62c255b7c364f5cababab9a1735045ab84df03",
+      "bytes": 6968
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassCosetEmbedding.lean",
+      "sha256": "5deb448dd546f3456526e6319155c72fc6565b0043d4624e1bcca6b3121d91bc",
+      "bytes": 4054
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassDefinition.lean",
+      "sha256": "c420870aea63e47045792f7b63df7c7ab57dc91d58801c68622a0597267f03d6",
+      "bytes": 3119
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassFibers.lean",
+      "sha256": "77a79fcba95db507308098f9c28b1b9043025b999edcae8db5c10b3e1aadfce4",
+      "bytes": 5284
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassGraphCapture.lean",
+      "sha256": "199a9e95b8f77c832245139e1cc0c6a31d3f5bd9abbfdff215eea085dd04f05d",
+      "bytes": 3770
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassMarkedIsomorphisms.lean",
+      "sha256": "f8016ded5fcdbb1ccc8dc6400fc81e4562655b3526c7d1c439478bfef2c4338d",
+      "bytes": 3319
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassMarkedLanguage.lean",
+      "sha256": "11d5e97fd46b5418d2d8dcc80eb3f28c03cbc7727dcc845957419e6297c9dd13",
+      "bytes": 6707
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassMarkerPermutations.lean",
+      "sha256": "bba849340f7b0bb509292c76eef319229c15e32bb45d414a9b2697fe471656e4",
+      "bytes": 3988
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassOrbits.lean",
+      "sha256": "7f66ce9bca625119aa858cb3553d6640665140f1637d7388ad341bcb464850b7",
+      "bytes": 5896
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassRealCodes.lean",
+      "sha256": "7d0b5fe3b2e4213f4a160bb2692f3af8426e810cb6f4bbd4bf1089b8b236d642",
+      "bytes": 2212
+    },
+    {
+      "path": "FSCofinalityProof/ParameterClassSequences.lean",
+      "sha256": "6e2ab2c4e7c3384be60840f8a347a94080d24159b3c04a36e43bb02d7a963570",
+      "bytes": 14215
+    },
+    {
+      "path": "FSCofinalityProof/PartialIsomorphism.lean",
+      "sha256": "038ca855a00d4bd2c14cc0069dc57e74c62f16725409b1c2f472e6bb64b98c13",
+      "bytes": 8085
+    },
+    {
+      "path": "FSCofinalityProof/PartialIsomorphismRank.lean",
+      "sha256": "d49f477a730438f737c645fbf178e93de5e2138f7da36d569a11cecbb4bcda3b",
+      "bytes": 3784
+    },
+    {
+      "path": "FSCofinalityProof/PolishHomImage.lean",
+      "sha256": "5620b0a88dd52933c4e402bf5c8cc3273c45daea8851c9564106bdcd5c1cbc77",
+      "bytes": 2672
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsBirthAbsoluteness.lean",
+      "sha256": "c532afa7696b37642c625f5439f08058eb20325551265bbde38ade8267879754",
+      "bytes": 3413
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsColumnEncoding.lean",
+      "sha256": "180137f4dd548d43fc86331e2e6ee68cc0ccf10ad5a6b3c110bb6474f8fdb1e0",
+      "bytes": 5053
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsColumns.lean",
+      "sha256": "bce16f9c5f47645ed210bd8994ef52c2eac0e34b3da842b4b635cb5d801a6383",
+      "bytes": 6888
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsCountablePools.lean",
+      "sha256": "40fb26da874bc47536256de8d97193aae1ea6829f956422dc6d539d66f008f57",
+      "bytes": 8123
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsFrame.lean",
+      "sha256": "3b40c8f62b04b86f56c582304dc84ba241fe8e4e1e1c89ecd3378a133fbd12cd",
+      "bytes": 6266
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsLifts.lean",
+      "sha256": "e99a632ee2cce1703435950b0945577ddbaf9d0dab363abeee2969e2b06f981c",
+      "bytes": 5011
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsNaturality.lean",
+      "sha256": "88e71507757ec7fad9b42d6093f0b72726c6881ff50398d60a7292948d9d1b2c",
+      "bytes": 8924
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsPoolColumns.lean",
+      "sha256": "c62936fcbea2723f53c66ce9ef8dc5275f596193997c706b965c94597ea1f25a",
+      "bytes": 4930
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsPoolProfileSeparation.lean",
+      "sha256": "85adefe5d8a0738507413c74782d45721e5d4a0d5c3198607c20838d4e9ab27c",
+      "bytes": 2948
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsPoolRoles.lean",
+      "sha256": "74383b490a1fa40671d289f798175d99883ffe052fd7eca6535b1b693344ff04",
+      "bytes": 5091
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsPools.lean",
+      "sha256": "67d36b4aee7ea21cb548b4b9f9118479b3f44a32b0ee0bd93eff132b57436e22",
+      "bytes": 6223
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsPoolValidity.lean",
+      "sha256": "de490e1e29af86ae16f65621111807b4148e195edc631c4971697ffd2edba3c8",
+      "bytes": 5909
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsProfiles.lean",
+      "sha256": "ea139ef9e4f85742e6b260211123a0f1148195da31f482c72b02a80d71c03550",
+      "bytes": 6987
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsRestrictedRecovery.lean",
+      "sha256": "84d6644a125a01020e5a164a92b61621e5e9a5c98c03db9be900d30d3cc8a5f9",
+      "bytes": 4461
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsTopRecovery.lean",
+      "sha256": "364d5460b03dec46d33cd3c4092de5c4db9c26ee667ea09e9dff32a9b1dbf587",
+      "bytes": 4286
+    },
+    {
+      "path": "FSCofinalityProof/RawObjectsUniverse.lean",
+      "sha256": "9fec187d57dd03ee93a33cf3647744fdca67afcaec9de5d00c61f3226fe2fc6f",
+      "bytes": 20144
+    },
+    {
+      "path": "FSCofinalityProof/StructuresBasics.lean",
+      "sha256": "a78113a22ea92816747d72d06b847d16934acdad8e803f7486b276099332e1d7",
+      "bytes": 3326
+    },
+    {
+      "path": "FSCofinalityProof/TokenAnchor.lean",
+      "sha256": "b6daa4b64e60f1cb11d551b61738027ffaf371b92040274e6b198fabea2bab28",
+      "bytes": 3246
+    },
+    {
+      "path": "FSCofinalityProof/TokenAtomicExtensions.lean",
+      "sha256": "76f4fc749fc8b67584db7616d52b2ca2e3d28551f6bced716ea922baf62fe8c0",
+      "bytes": 4581
+    },
+    {
+      "path": "FSCofinalityProof/TokenBottomExtension.lean",
+      "sha256": "8ac7c8290a13de1a6938c664c368ffbde6826773253bef166e32006338c453f3",
+      "bytes": 6655
+    },
+    {
+      "path": "FSCofinalityProof/TokenBottomRecovery.lean",
+      "sha256": "ea2d4c9adff920d34491a5b47c56aafd82045c1c50a07be9f4e5eb296e593205",
+      "bytes": 1902
+    },
+    {
+      "path": "FSCofinalityProof/TokenCommonIsotype.lean",
+      "sha256": "414c1fa70aaf55119e2ab3e20af2f8095d3c580f4d176057192da26707f60991",
+      "bytes": 3373
+    },
+    {
+      "path": "FSCofinalityProof/TokenCoordinateExtension.lean",
+      "sha256": "e33318a5ef17978452209ab2520cd96388bb408b03715316e948f5e23e98387a",
+      "bytes": 9448
+    },
+    {
+      "path": "FSCofinalityProof/TokenEquivalences.lean",
+      "sha256": "063200ad33780ed679d931e2f5fabc9c38f5a1184b69606eab87d0d9649c2adf",
+      "bytes": 2916
+    },
+    {
+      "path": "FSCofinalityProof/TokenFiniteCorrespondence.lean",
+      "sha256": "b1aa240fd8745352c936939a50d38cb1d24b904d57843cd4492c72510b8c6988",
+      "bytes": 5863
+    },
+    {
+      "path": "FSCofinalityProof/TokenFiniteRoles.lean",
+      "sha256": "bea484f68e287d6a53f2febc9fed0d72173ede614ff633d2aabf6ad787e924c7",
+      "bytes": 14993
+    },
+    {
+      "path": "FSCofinalityProof/TokenFiniteTypes.lean",
+      "sha256": "a6059394d5fb5b69898f0073a7baa6258fe64978cd963e2889be443f6ca99843",
+      "bytes": 2081
+    },
+    {
+      "path": "FSCofinalityProof/TokenHistoryOperations.lean",
+      "sha256": "ad4057fb930d8133eee14b63ffbf15473661eb00bf22876d2fd59e91353498de",
+      "bytes": 3045
+    },
+    {
+      "path": "FSCofinalityProof/TokenInsertion.lean",
+      "sha256": "0257c276e847c4905f36c0db45cfb3d73b369a073bf87e9298cc7bf68ded0705",
+      "bytes": 7450
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitBlock.lean",
+      "sha256": "e68f21d9fb18f3c0b55a0e15fae75d94265520dee1e6434bd069b93f639fc38a",
+      "bytes": 2645
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitExtension.lean",
+      "sha256": "a1ad7cbf64b41876b78852d111f72ba309b13254e3d9ff1eae8b67fae9d9179b",
+      "bytes": 4705
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitFiniteType.lean",
+      "sha256": "83a5c42ec5b2a3e883e6e07d8a537226aa8a448d7a8e55697ff655f84b39468b",
+      "bytes": 5487
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitMaps.lean",
+      "sha256": "966d9ff97182d9daa27e75b272285bba4a76bd930b6d81fc062fc4f46abca181",
+      "bytes": 7108
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitRecovery.lean",
+      "sha256": "ecac4dff41d8f3c63e8e8fdb83f0192e44c724b8eeef87fe50f445cbda7dd519",
+      "bytes": 1700
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitRequests.lean",
+      "sha256": "bd6f89bf9d2b3cf2e07508f6ea5cb5aa467d2a2ebccab7dd3beac0f606212abb",
+      "bytes": 4378
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitStep.lean",
+      "sha256": "5d0f13e427b4da804188d812eaf4875d7a194bcd174622ca2c33aed661f4bffb",
+      "bytes": 3778
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitTail.lean",
+      "sha256": "bfe88039b74333baf6a16046d7194bcc920585c7e4aad97c9782bceb1880b3df",
+      "bytes": 2232
+    },
+    {
+      "path": "FSCofinalityProof/TokenLimitUpper.lean",
+      "sha256": "a680dad2121236a10a4fa1b4cfba3b5eeffce24b66afb5b32e58cca991de01e2",
+      "bytes": 1767
+    },
+    {
+      "path": "FSCofinalityProof/TokenLiteralForth.lean",
+      "sha256": "f3bd60fe316385ae396b8ff8082885ba05a5112b9841c1f4a0f38e8d29b2cff2",
+      "bytes": 943
+    },
+    {
+      "path": "FSCofinalityProof/TokenLiteralMaps.lean",
+      "sha256": "830ba476ceb233d50a35a9f610dc5c96b31664e811c6263a239d2ade4b58ac09",
+      "bytes": 8757
+    },
+    {
+      "path": "FSCofinalityProof/TokenMap.lean",
+      "sha256": "c40692e302bf46c999b0f23174096ab0a92ed1e9b2dc658e99eb1c8b1f41e4ce",
+      "bytes": 1527
+    },
+    {
+      "path": "FSCofinalityProof/TokenNamedRecovery.lean",
+      "sha256": "9cf05404dce67f1e28405a7717747b7483681a4669c222e7bd71069477e6ba4e",
+      "bytes": 2563
+    },
+    {
+      "path": "FSCofinalityProof/TokenOrdinaryExtension.lean",
+      "sha256": "87020245b577de9cb94eff5bb6bf71c39ab4ca42c3f6a899234cfe6db89a3d61",
+      "bytes": 3573
+    },
+    {
+      "path": "FSCofinalityProof/TokenOrdinaryExtensions.lean",
+      "sha256": "5bd657da4d6711c4cf35c020e35e9c30e2b23447f663777682fe687ec51e2bb7",
+      "bytes": 7297
+    },
+    {
+      "path": "FSCofinalityProof/TokenOrdinaryInsertion.lean",
+      "sha256": "506a2702f12bfce1f5854388e76a4465fb78813f45ce64c78e4e01c0bec483dd",
+      "bytes": 7320
+    },
+    {
+      "path": "FSCofinalityProof/TokenOrdinaryMaps.lean",
+      "sha256": "3a301f4c61ebe08c3d943fb29f004690f73a4bc5d6dbaafae0016f355faf9af1",
+      "bytes": 6173
+    },
+    {
+      "path": "FSCofinalityProof/TokenRecovery.lean",
+      "sha256": "34fa794dfeb32affdeeaa8ad718a46e02b48ab2a646c5a21028ef0279818eeb2",
+      "bytes": 3750
+    },
+    {
+      "path": "FSCofinalityProof/TokenStructures.lean",
+      "sha256": "b6fd445aac17ef21380e454a96ddc0ad6e170c7a29193bc3c5a1d1939c7088a3",
+      "bytes": 6900
+    },
+    {
+      "path": "FSCofinalityProof/TreeAssembly.lean",
+      "sha256": "6a256ed51ca7ef0aafd75379c15b668c194ac266731a468ae1c06707b022c630",
+      "bytes": 5391
+    },
+    {
+      "path": "FSCofinalityProof/TreeBranches.lean",
+      "sha256": "755642760cfa33cbb742fefda077c105b0568b3a1f112124fd7c72c40f787be5",
+      "bytes": 4250
+    },
+    {
+      "path": "FSCofinalityProof/TreeChildClassification.lean",
+      "sha256": "5ea2765071d57846f2c82be40161c8632020c3db7c04c0a2e1d2a745f1f84751",
+      "bytes": 3770
+    },
+    {
+      "path": "FSCofinalityProof/TreeClassifiers.lean",
+      "sha256": "11f8e412eaa35c0d6743b921b7e2342e012f62d8810fb94550bf52d04bc0b6ed",
+      "bytes": 6228
+    },
+    {
+      "path": "FSCofinalityProof/TreeIsomorphisms.lean",
+      "sha256": "e51127c8d12757b67e2496903bdc49ebe6fb20a75292275752a4c1fff8bea701",
+      "bytes": 8097
+    },
+    {
+      "path": "FSCofinalityProof/TreePaddedChildren.lean",
+      "sha256": "728f99f831d333ea347fba2023f4fdcdfed75812365d65dc0ef0e3ad8d685dce",
+      "bytes": 3008
+    },
+    {
+      "path": "FSCofinalityProof/TreeRanks.lean",
+      "sha256": "9b1c54830d1235d7d6278297c6bf70491bfc9050bb495ef45e8e1fa8d5da27ab",
+      "bytes": 2159
+    },
+    {
+      "path": "FSCofinalityProof/TreeSubtrees.lean",
+      "sha256": "295974c236b30c922a4ab75c01586d0d48151c10f95ae48c6619eb7b30919ec5",
+      "bytes": 3042
+    },
+    {
+      "path": "FSCofinalityProof/TwoSortPermutations.lean",
+      "sha256": "90b842e91905dc0512b3e6169faf698c1f954d938e5f1bdd2d77818f9fd23f28",
+      "bytes": 3265
+    },
+    {
+      "path": "FSCofinalityProof/TwoSortTopology.lean",
+      "sha256": "8cf58baf722d46ca0b62699e647b133748e0489a4037f0f67e122146f169505b",
+      "bytes": 6341
+    },
+    {
+      "path": "Solutions/BoundedTreeIsomorphismBorel.lean",
+      "sha256": "919340fedcf7b260b8de02b7f52360e685298bb0de54bfae084bb1df946d69c1",
+      "bytes": 739
+    },
+    {
+      "path": "Solutions/CosetCofinality.lean",
+      "sha256": "936d5de3bfb94bd6fc11280c435ae3101c059778459c61eb8358e9451755466b",
+      "bytes": 553
+    },
+    {
+      "path": "Solutions/InvariantRealParameters.lean",
+      "sha256": "0e66071769bee8620c0e55b3605541d817b60a91cdb9f2c195d2c40dc4703d2a",
+      "bytes": 609
+    },
+    {
+      "path": "Solutions/Main.lean",
+      "sha256": "8082ca8ecdbdab17e25d7d466f09cd31ca791d54b8c8079819945b59243c0795",
+      "bytes": 1545
+    },
+    {
+      "path": "Solutions/OriginalTreeComparison.lean",
+      "sha256": "ea3203f3ae139350c0f8bb6cfa16ec326d8dcc0dac77b1821ae80141b9a4e0d2",
+      "bytes": 415
+    },
+    {
+      "path": "Prove2Me/BoundedTreeIsomorphismBorel.lean",
+      "sha256": "2095c979b3fb02b4bc2772c49a830b6af8816ad16ac482bf2f518a654cebf89e",
+      "bytes": 72303
+    },
+    {
+      "path": "Prove2Me/CosetCofinality.lean",
+      "sha256": "477de581288f747e91d511a7d4b392deff0e390edb0df4405ae843361a002d91",
+      "bytes": 617756
+    },
+    {
+      "path": "Prove2Me/InvariantRealParameters.lean",
+      "sha256": "66b9d78fb69528cd20ea7fe8f62837565f0c886e8f5238da32358e0338098295",
+      "bytes": 150701
+    },
+    {
+      "path": "Prove2Me/Main.lean",
+      "sha256": "51f70240a7e9a678d7da0368cae50ad13048c660ea36751d5503260c24dc5894",
+      "bytes": 870689
+    },
+    {
+      "path": "Prove2Me/OriginalTreeComparison.lean",
+      "sha256": "0070f13a18bcbd47bae5536d61d43b30d45202285366c5d53cba86a720ab76ec",
+      "bytes": 71980
+    },
+    {
+      "path": "docs/progress.md",
+      "sha256": "43f6f0055bff2f1013c2001d1f01969d2ab9ca2d7955af5144cd816efc187afa",
+      "bytes": 3900
+    },
+    {
+      "path": "docs/verification.md",
+      "sha256": "631d11b7a8ad3586ad791ba7f24ac3a1ef630e23dfef459ac9338149eb912dd9",
+      "bytes": 3294
+    },
+    {
+      "path": "docs/proof-outline.md",
+      "sha256": "2911ebf2c0ca34924f10e989d97b0ceac6bb88646db66f08c960c5c3c9adc954",
+      "bytes": 4167
+    },
+    {
+      "path": "docs/prove2me-acceptance.json",
+      "sha256": "fa928e369811b9ee2edc9703e80a389278d5c8bd10d64eb32e758514575e433d",
+      "bytes": 3597
+    },
+    {
+      "path": "docs/readbacks/readback-bounded_tree_isomorphism_borel.md",
+      "sha256": "94e9c5ed490cc2b36dbe74b92cf38b5bb22b1ef55e0b17ea76505b4b2f8c5f61",
+      "bytes": 4843
+    },
+    {
+      "path": "docs/readbacks/readback-coset_cofinality.md",
+      "sha256": "37109fb0b29ed5a09c65a23d28743e0ecc49e10782d0698be25fad90689bf026",
+      "bytes": 3973
+    },
+    {
+      "path": "docs/readbacks/readback-cosets.md",
+      "sha256": "a6c4a70a7c807acb19c3efdd8ecdb370e049de132756ccce152f66387a4b698e",
+      "bytes": 9884
+    },
+    {
+      "path": "docs/readbacks/readback-hierarchy.md",
+      "sha256": "c5c93e641d036b0c335292c4d6cdad4b99e41d8bfd228735a511428b6382af7c",
+      "bytes": 10753
+    },
+    {
+      "path": "docs/readbacks/readback-invariant_real_parameters.md",
+      "sha256": "3d940cc89c50525d6bbae251b6f07f8eadac6b43f86ed0c2c2073792da40a6f7",
+      "bytes": 3112
+    },
+    {
+      "path": "docs/readbacks/readback-original_tree_comparison.md",
+      "sha256": "dab3756053782b8a39d0c3006b8215281b51661b35897f0289d8e4287011ee37",
+      "bytes": 5172
+    },
+    {
+      "path": "docs/readbacks/readback-structures.md",
+      "sha256": "855e3022d51afe49bf9fb56be57611c8b30ec1ec299f5fe4eae08cf6e83412a8",
+      "bytes": 13405
+    },
+    {
+      "path": "docs/readbacks/readback-theorem1_2.md",
+      "sha256": "8ab6f7011801bd8fce6d1ca648bd2179cc1935ca14ae7d8911d268c57c8cd547",
+      "bytes": 8341
+    },
+    {
+      "path": "docs/readbacks/readback-trees.md",
+      "sha256": "4cd4e038fe2e8467d404dca336e14e2e8490934e66724019a71b786c5807c7a5",
+      "bytes": 7431
+    },
+    {
+      "path": "docs/readbacks/README.md",
+      "sha256": "123e7f2711257c56bb8e9b6cde60d3a47b286325c8fb83de479f659da769adb0",
+      "bytes": 910
+    },
+    {
+      "path": "docs/readbacks/source-semantic-audit.md",
+      "sha256": "5231fd73114c90fbf150c955b7ec60a5b1efc5ef2afa740dd69559c94c0c738a",
+      "bytes": 5726
+    }
+  ]
+}
