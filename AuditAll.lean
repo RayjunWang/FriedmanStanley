@@ -1,0 +1,11 @@
+import Solutions.BoundedTreeIsomorphismBorel
+import Solutions.InvariantRealParameters
+import Solutions.CosetCofinality
+import Solutions.OriginalTreeComparison
+import Solutions.Main
+
+#print axioms FSCofinality.bounded_tree_isomorphism_borel
+#print axioms FSCofinality.invariant_real_parameters
+#print axioms FSCofinality.coset_cofinality
+#print axioms FSCofinality.original_tree_comparison
+#print axioms FSCofinality.theorem1_2

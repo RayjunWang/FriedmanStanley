@@ -1,0 +1,15 @@
+import FSCofinalityProof
+import Solutions.InvariantRealParameters
+import Solutions.BoundedTreeIsomorphismBorel
+import Solutions.OriginalTreeComparison
+
+#print axioms FSCofinality.GraphCoding.structures_reduces_graphs
+#print axioms FSCofinality.RootedTrees.analytic_wellFoundedTree_bounded
+#print axioms FSCofinality.PartialIso.measurable_prunedFamilyPermutation
+#print axioms FSCofinality.DistinguishedRestriction.qFixed_reduces_coset
+#print axioms FSCofinality.RawObjects.profile_semantic_congr
+#print axioms FSCofinality.ClosedChoice.exists_measurable_closed_selector
+#print axioms FSCofinality.measurableSet_range_continuousHom
+#print axioms FSCofinality.invariant_real_parameters
+#print axioms FSCofinality.bounded_tree_isomorphism_borel
+#print axioms FSCofinality.original_tree_comparison
