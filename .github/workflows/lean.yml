@@ -1,0 +1,36 @@
+name: Lean
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lean-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+      - name: Install Lean, restore caches, and build all five proofs
+        uses: leanprover/lean-action@v1
+        with:
+          auto-config: false
+          use-mathlib-cache: true
+          build: true
+          build-args: >-
+            FSCofinalityProof
+            Solutions.Main
+            Solutions.CosetCofinality
+            Solutions.InvariantRealParameters
+            Solutions.BoundedTreeIsomorphismBorel
+            Solutions.OriginalTreeComparison
+      - name: Check the axiom dependencies of all five proofs
+        run: lake env lean AuditAll.lean
